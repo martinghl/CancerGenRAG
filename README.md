@@ -6,8 +6,6 @@ Core idea: **decouple prioritization from interpretation**
 1) **Prioritization:** consolidate heterogeneous genomic evidence into a transparent consensus ranking (rank aggregation).
 2) **Interpretation:** after ranking, run evidence synthesis (LLM + curated sources) for the top candidates.
 
-This repository is a cleaned, GitHub-ready re-organization of the project code.
-
 ---
 
 ## What is included
