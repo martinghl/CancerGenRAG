@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cancergen-rag"
+version = "0.1.0"
+description = "CancerGen-RAG: lung cancer variant prioritization + interpretation utilities (research code)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+  { name = "CancerGen-RAG contributors" }
+]
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "matplotlib>=3.7",
+  "scikit-learn>=1.3",
+  "tqdm>=4.66",
+  "requests>=2.31",
+]
+
+[project.optional-dependencies]
+preprocess = ["pysam>=0.22"]
+rag = ["openai>=1.40.0", "google-genai>=0.6.0", "biopython>=1.83", "gseapy>=1.1.3"]
+dev = ["ruff>=0.5.0", "pytest>=8.0.0"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

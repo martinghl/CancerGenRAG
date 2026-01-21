@@ -1,0 +1,56 @@
+﻿"Polygenic Score ID & Name","PGS Publication ID (PGP)","Reported Trait","Mapped Trait(s) (Ontology)","Number of Variants","Ancestry distributionGWASDevEval","Scoring File (FTP Link)"
+"PGS000070 (PRS_LC_C)","PGP000049 |Dai J et al. Lancet Respir Med (2019)","Lung cancer","lung adenocarcinoma",19,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000070/ScoringFiles/PGS000070.txt.gz
+"PGS000078 (CC_Lung)","PGP000050 |Graff RE et al. Nat Commun (2021)","Lung cancer","lung carcinoma",109,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000078/ScoringFiles/PGS000078.txt.gz
+"PGS000156 (cGRS_Lung)","PGP000075 |Shi Z et al. Cancer Med (2019)","Lung cancer","lung carcinoma",6,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000156/ScoringFiles/PGS000156.txt.gz
+"PGS000388 (PRSWEB_PHECODE165.1_C3-BRONCHUS-LUNG_PRS-CS_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer","1,109,069",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000388/ScoringFiles/PGS000388.txt.gz
+"PGS000389 (PRSWEB_PHECODE165.1_GWAS-Catalog-r2019-05-03-X165.1_P_5e-08_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer",21,GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000389/ScoringFiles/PGS000389.txt.gz
+"PGS000390 (PRSWEB_PHECODE165.1_GWAS-Catalog-r2019-05-03-X165.1_P_5e-08_UKB_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer",21,GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000390/ScoringFiles/PGS000390.txt.gz
+"PGS000391 (PRSWEB_PHECODE165.1_GWAS-Catalog-r2019-05-03-X165.1_PT_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer",14,GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000391/ScoringFiles/PGS000391.txt.gz
+"PGS000392 (PRSWEB_PHECODE165.1_GWAS-Catalog-r2019-05-03-X165.1_PT_UKB_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer",19,GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000392/ScoringFiles/PGS000392.txt.gz
+"PGS000393 (PRSWEB_PHECODE165.1_LUNG-CANCER_PRS-CS_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer","1,110,438",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000393/ScoringFiles/PGS000393.txt.gz
+"PGS000394 (PRSWEB_PHECODE165.1_LUNG-CANCER-MESOT_PRS-CS_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer","1,110,438",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000394/ScoringFiles/PGS000394.txt.gz
+"PGS000395 (PRSWEB_PHECODE165.1_UKBB-SAIGE-HRC-X165.1_PRS-CS_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer","1,119,238",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000395/ScoringFiles/PGS000395.txt.gz
+"PGS000396 (PRSWEB_PHECODE165.1_UKBB-SAIGE-HRC-X165.1_PT_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer",75,GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000396/ScoringFiles/PGS000396.txt.gz
+"PGS000397 (PRSWEB_PHECODE165.1_UKBB-SAIGE-HRC-X165.1_LASSOSUM_MGI_20200608)","PGP000118 |Fritsche LG et al. Am J Hum Genet (2020)","Lung and bronchus cancer","tracheal cancer,
+bronchus cancer,
+lung cancer","46,920",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000397/ScoringFiles/PGS000397.txt.gz
+"PGS000721 (PRS_Lung)","PGP000135 |Jia G et al. JNCI Cancer Spectr (2020)","Lung cancer","lung carcinoma",19,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000721/ScoringFiles/PGS000721.txt.gz
+"PGS000740 (PRS128_LC)","PGP000148 |Hung RJ et al. Cancer Res (2021)","Lung cancer","lung carcinoma",128,GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000740/ScoringFiles/PGS000740.txt.gz
+"PGS000789 (CC_Lung_IV)","PGP000186 |Kachuri L et al. Nat Commun (2020)","Lung cancer","lung carcinoma",109,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000789/ScoringFiles/PGS000789.txt.gz
+"PGS000880 (PRS18_LC)","PGP000226 |Xie J et al. Sleep (2021)","Lung cancer","lung carcinoma",18,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS000880/ScoringFiles/PGS000880.txt.gz
+"PGS002270 (PRS33_LC)","PGP000300 |Zhang P et al. Br J Cancer (2022)","Lung cancer","lung carcinoma",33,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS002270/ScoringFiles/PGS002270.txt.gz
+"PGS002808 (PGS20_LC)","PGP000387 |Qin N et al. Lancet Oncol (2022)","Lung cancer","lung carcinoma",20,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS002808/ScoringFiles/PGS002808.txt.gz
+"PGS003391 (best_LUCA)","PGP000413 |Namba S et al. Cancer Res (2022)","Lung cancer","lung carcinoma",133,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS003391/ScoringFiles/PGS003391.txt.gz
+"PGS003392 (best_LUSC)","PGP000413 |Namba S et al. Cancer Res (2022)","Lung squamous cell carcinoma","squamous cell lung carcinoma",90,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS003392/ScoringFiles/PGS003392.txt.gz
+"PGS003393 (best_LUAD)","PGP000413 |Namba S et al. Cancer Res (2022)","Lung adenocarcinoma","lung adenocarcinoma",74,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS003393/ScoringFiles/PGS003393.txt.gz
+"PGS004164 (PRS16_LC)","PGP000518 |Wei X et al. Int J Cancer (2023)","Lung cancer in never smokers","lung carcinoma,
+smoking status measurement",16,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004164/ScoringFiles/PGS004164.txt.gz
+"PGS004165 (PRS21_LC)","PGP000518 |Wei X et al. Int J Cancer (2023)","Lung cancer","lung carcinoma",21,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004165/ScoringFiles/PGS004165.txt.gz
+"PGS004246 (PRS43_lung)","PGP000542 |Kim ES et al. NPJ Precis Oncol (2023)","Lung cancer","lung carcinoma",43,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004246/ScoringFiles/PGS004246.txt.gz
+"PGS004325 (GRS19_LC)","PGP000559 |Wang Y et al. Front Physiol (2023)","Lung cancer","lung carcinoma",19,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004325/ScoringFiles/PGS004325.txt.gz
+"PGS004442 (disease.C34.score)","PGP000561 |Jung H et al. Commun Biol (2024)","C34 (Malignant neoplasm of bronchus and lung)","lung carcinoma","1,059,939",'-DE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004442/ScoringFiles/PGS004442.txt.gz
+"PGS004512 (meta.C34.score)","PGP000561 |Jung H et al. Commun Biol (2024)","C34 (Malignant neoplasm of bronchus and lung)","lung carcinoma","1,059,939",'-DE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004512/ScoringFiles/PGS004512.txt.gz
+"PGS004691 (lung_cancer)","PGP000596 |Hu J et al. JNCI Cancer Spectr (2024)","Lung cancer","lung carcinoma","950,353",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004691/ScoringFiles/PGS004691.txt.gz
+"PGS004860 (Genome-wide-PRS)","PGP000607 |Boumtje V et al. EBioMedicine (2024)","Lung cancer","lung carcinoma","1,143,554",G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004860/ScoringFiles/PGS004860.txt.gz
+"PGS004884 (INTERVENE_MegaPRS_Lung_cancer)","PGP000618 |Jermy B et al. Nat Commun (2024)","Lung cancer","lung carcinoma","655,479",GDE,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004884/ScoringFiles/PGS004884.txt.gz
+"PGS004955 (PRS23)","PGP000678 |Zhu M et al. Int J Epidemiol (2023)","Lung cancer","lung carcinoma",23,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS004955/ScoringFiles/PGS004955.txt.gz
+"PGS005163 (PRS-LC)","PGP000711 |Zhu M et al. PLoS Med (2025)","Lung cancer","lung carcinoma",42,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS005163/ScoringFiles/PGS005163.txt.gz
+"PGS005169 (PRS25_LUAD)","PGP000713 |Blechter B et al. JAMA Netw Open (2023)","Lung adenocarcinoma","lung adenocarcinoma",25,G-E,https://ftp.ebi.ac.uk/pub/databases/spot/pgs/scores/PGS005169/ScoringFiles/PGS005169.txt.gz

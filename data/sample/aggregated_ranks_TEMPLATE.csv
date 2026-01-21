@@ -1,0 +1,3 @@
+rank,gene_variant_id,rsID,score,method
+1,GENE1_rs123456,rs123456,0.987,GEO
+2,GENE2_rs234567,rs234567,0.955,GEO
