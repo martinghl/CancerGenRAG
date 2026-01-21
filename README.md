@@ -17,14 +17,7 @@ This repository is a cleaned, GitHub-ready re-organization of the project code.
 - `scripts/rag/` – LLM-driven evidence synthesis utilities (OpenAI / Gemini), Enrichr enrichment, STRING PPI, ClinVar lookups
 - `r/` – R utilities for PGS data preparation/annotation (Bioconductor/Quincunx-based)
 - `data/sample/` – tiny templates / sample files for sanity checks
-
-## What is intentionally NOT included (you will add later)
-
-- **GWAS priority score table** (e.g., `LC_GWAS_Priority_Scores.csv`).
-  - A template is provided at `data/sample/LC_GWAS_Priority_Scores_TEMPLATE.csv`.
-- Large/private raw data (full PGS scoring files, big intermediate PKLs, dbSNP VCF, etc.).
-- (Optional) The *rank-aggregation engines* themselves, if you run them elsewhere.
-  - This repo assumes you can provide method-specific `aggregated_ranks.csv` files and offers tooling around them.
+- GWAS priority score table (e.g., `LC_GWAS_Priority_Scores.csv`).
 
 ---
 
