@@ -2,7 +2,7 @@
 
 CancerGen-RAG is a modular workflow for **lung cancer variant / gene prioritization and interpretation**.
 
-Core idea (see `docs/CancerGen-RAG_paper.pdf`): **decouple prioritization from interpretation**
+Core idea: **decouple prioritization from interpretation**
 1) **Prioritization:** consolidate heterogeneous genomic evidence into a transparent consensus ranking (rank aggregation).
 2) **Interpretation:** after ranking, run evidence synthesis (LLM + curated sources) for the top candidates.
 
@@ -16,7 +16,6 @@ This repository is a cleaned, GitHub-ready re-organization of the project code.
 - `scripts/aggregation/` – ID alignment, label coverage checks, postprocessing helpers, evaluation utilities, plots
 - `scripts/rag/` – LLM-driven evidence synthesis utilities (OpenAI / Gemini), Enrichr enrichment, STRING PPI, ClinVar lookups
 - `r/` – R utilities for PGS data preparation/annotation (Bioconductor/Quincunx-based)
-- `docs/` – paper PDF + pipeline notes
 - `data/sample/` – tiny templates / sample files for sanity checks
 
 ## What is intentionally NOT included (you will add later)
@@ -39,9 +38,7 @@ CancerGen-RAG/
     rag/          # LLM + evidence sources (ClinVar / Enrichr / STRING)
   r/              # R-based PGS parsing/annotation utilities
   data/sample/    # templates + tiny samples
-  docs/           # paper + notes
   notebooks/      # exploratory notebooks (kept for provenance)
-  legacy_original/# original tree (for auditability)
 ```
 
 ---
